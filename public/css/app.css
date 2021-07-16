@@ -127,6 +127,10 @@ table.shard-map { table-layout: fixed; }
     padding-right: 6px;
 }
 
+.label-success {
+    background-color: #197959;
+}
+
 .pending-changes {
     position: fixed;
     bottom: 0;
